@@ -1,3 +1,10 @@
+# Website Preview
+
+<img width="1349" alt="Screenshot 2023-09-14 at 13 03 59" src="https://github.com/Yash-bharadwaj/React-Resto/assets/86095452/0bb0001d-7e59-4f5b-8f8c-5de031bee2d5">
+<img width="1273" alt="Screenshot 2023-09-14 at 13 04 15" src="https://github.com/Yash-bharadwaj/React-Resto/assets/86095452/a76583c4-e26e-40a5-9838-b5df33ff9103">
+<img width="1365" alt="Screenshot 2023-09-14 at 13 04 42" src="https://github.com/Yash-bharadwaj/React-Resto/assets/86095452/41e1db89-2224-41fd-b63e-97f843b6c804">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
