@@ -51,7 +51,7 @@ const Footer = () => (
 
 
   <div className="footer__copyright">
-      <p className='p__opensans'>© 2023 Resto|| Made with 💝 by @Yashwanth Bharadwaj</p>
+      <p className='p__opensans'>© 2024 Resto|| Made with 💝 by @Binduchalasani</p>
   </div>
   </div>
 );
